@@ -1,0 +1,14 @@
+[1006/101240.699:ERROR:process_info.cc(632)] range at 0x36c730ca00000000, size 0x23f fully unreadable
+[1006/101240.699:ERROR:process_info.cc(632)] range at 0x7c1430ca00000000, size 0x206 fully unreadable
+[1006/101240.700:ERROR:process_info.cc(632)] range at 0x36c7312c00000000, size 0x23f fully unreadable
+[1006/101240.700:ERROR:process_info.cc(632)] range at 0x7c14312c00000000, size 0x206 fully unreadable
+[1006/101240.700:ERROR:process_info.cc(632)] range at 0x0, size 0x23f fully unreadable
+[1006/101240.700:ERROR:process_info.cc(632)] range at 0x0, size 0x206 fully unreadable
+[1006/101304.440:ERROR:process_info.cc(632)] range at 0xf67f317800000000, size 0x11e fully unreadable
+[1006/101304.441:ERROR:process_info.cc(632)] range at 0xf67f31da00000000, size 0x11e fully unreadable
+[1006/101304.501:ERROR:process_info.cc(632)] range at 0x0, size 0x11e fully unreadable
+[1006/101304.443:ERROR:process_info.cc(632)] range at 0x4687317800000000, size 0x1fc fully unreadable
+[1006/101304.504:ERROR:process_info.cc(632)] range at 0x468731da00000000, size 0x1fc fully unreadable
+[1006/101304.504:ERROR:process_info.cc(632)] range at 0x0, size 0x1fc fully unreadable
+[1006/101509.122:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1012/210204.109:ERROR:crash_report_database_win.cc(427)] unexpected header
